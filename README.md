@@ -1,5 +1,8 @@
 # Tropix Postcard Reimplemented
 
+-   https://tropixgame.com
+-   https://makitsune.github.io/tropixgame.com-fork/
+
 I originally tested this on macOS whilst playing Tropix using CrossOver. Because Go can cross compile, I had no problems at all.
 
 To compile yourself:
