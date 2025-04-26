@@ -1,6 +1,6 @@
 {
-	"host": "smtp.mailgun.org",
-	"port": 587,
+	"host": "smtp.purelymail.com",
+	"port": 465,
 	"user": "",
 	"pass": "",
 	"from": "Sender Name <email@example.com>",
