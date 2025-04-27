@@ -1,7 +1,7 @@
 # Tropix Postcard Reimplemented
 
 -   https://tropixgame.com
--   https://makinori.github.io/tropixgame.com
+-   https://tropix.hotmilk.space
 
 Fixes postcards in Tropix 1 and 2. Written in Go and cross compiles easily.
 
